@@ -1,6 +1,0 @@
-Un comercio de electrodomésticos nos pide una aplicación
-que permita ver en pantalla los distintos tipos de precios de
-un producto. Este comercio vende de contado con un 10% de
-descuento, en tres cuotas con un coeficiente de 1,062; en seis
-cuotas un coeficiente de 1,18 y en 12 cuotas un coeficiente de
-1,41
