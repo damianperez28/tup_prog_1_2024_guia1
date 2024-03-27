@@ -1,0 +1,5 @@
+Ana María es abuela de 4 niñas de diferentes edades: Ana
+Paula, Lucía, Milena y Jazmín. Desea otorgarles una mesada
+mensual proporcional a las edades de las niñas. El monto total
+mensual que desea otorgarles depende de sus ingresos.
+¿Cuánto dinero debe darle a cada niña?

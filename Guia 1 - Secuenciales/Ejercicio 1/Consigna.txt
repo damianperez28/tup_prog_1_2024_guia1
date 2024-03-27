@@ -1,0 +1,3 @@
+Una empresa de transporte quiere saber el consumo de
+combustible por kilómetro de sus unidades. Realice un algoritmo
+que resuelva básicamente este problema para un vehículo.
