@@ -1,0 +1,7 @@
+Una panadería produce budines de 55gr que empaca en
+paquetes de 12 unidades y luego en cajas de 20 paquetes.
+Realice un algoritmo que permita ingresar la cantidad de masa
+producida en kg y luego informe:
+• Cantidad de budines
+• Cantidad de masa sobrante (no utilizada)
+• Cantidad de paquetes y cantidad de cajas completos
